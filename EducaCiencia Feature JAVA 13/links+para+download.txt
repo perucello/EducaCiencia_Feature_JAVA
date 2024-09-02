@@ -1,0 +1,7 @@
+JDK13
+
+https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html
+
+Eclipse IDE 2020-03 R
+
+https://www.eclipse.org/downloads/packages/release/2020-03/r
